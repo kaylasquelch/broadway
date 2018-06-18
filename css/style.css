@@ -3,7 +3,6 @@ html {
 	text-align: center;
 }
 
-
 h1  {
 	color:white;
 	font-size: 70px;
@@ -24,18 +23,19 @@ p   {
 	font-size: 14px;
 }
 
-.header-cta  {
-	color: white;
-	font-size: 18px
-	}
-
 .header	{
 	background-image: url("../resources/images/the-flatiron-building.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
+.section-header {
+	color: white;
+	font-weight: bold;
+}
+
 a {
     color: white;
+    font-size: 18px;
 }
 
